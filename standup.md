@@ -1,6 +1,7 @@
 # Meeting - Standup notes
 **Date:** YYYY-MM-DD  
 **Sprint Progress:** Sprint # / Week #
+
 **Team Memeber attendence**:
 
 ---
