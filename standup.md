@@ -8,6 +8,7 @@
 
 ## Team Standup Summary
 
+<!-- use the way of links to "create" underlines in markdown-->
 ### [Your Name]
 - **Yesterday’s Progress**
   - Summary of what was completed or worked on.
@@ -35,7 +36,7 @@
 
 ## Shared Notes
 - Upcoming deadlines:
-  - Task or milestone due on [date]
+  - Task or milestone due on
 - Items to discuss:
   - Topic or concern
 
