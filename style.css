@@ -1,0 +1,21 @@
+
+:root {
+    --main-bg: hsl(322, 90%, 92%);
+    --accent-color: color(display-p3 1 0.4 0.3); 
+    --fallback-bg: #e6b4d3;
+  }
+  
+  /* Universal Selector used for text etc. */
+  * {
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Background and text color */
+  body {
+    background-color: var(--main-bg, var(--fallback-bg));
+    color: #8227cc;
+    margin: 0;
+    padding: 1rem;
+  }
+   
