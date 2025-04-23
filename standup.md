@@ -1,6 +1,6 @@
 # Meeting - Standup notes
 **Date:** YYYY-MM-DD  
-**Sprint Progress:** Sprint # / Week #
+**Sprint Progress:** Sprint # of Week #
 
 **Team Memeber attendence**:
 
@@ -34,11 +34,9 @@
 ---
 
 
-## Shared Notes
+## Important/Overall Notes
 - Upcoming deadlines:
   - Task or milestone due on
 - Items to discuss:
-  - Topic or concern
-
-## Important Topics
-- what is needed to improve on current project
+  - Topic or concerns + analyze where we can improve as a team after standup summary
+  - what is needed to improve on current project
